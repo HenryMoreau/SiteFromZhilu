@@ -19,10 +19,10 @@ const appConfig = useAppConfig()
                     {{ appConfig.description }}
                 </p>
                 <div>
-                    <ZButton icon="ph:files-duotone" to="https://blog.zhilu.cyou/">
+                    <ZButton icon="ph:files-duotone" to="https://blog.henrywhu.cn/">
                         博客
                     </ZButton>
-                    <ZButton icon="ph:github-logo-duotone" to="https://github.com/L33Z22L11">
+                    <ZButton icon="ph:github-logo-duotone" to="https://github.com/HenryMoreau">
                         GitHub
                     </ZButton>
                 </div>
@@ -31,9 +31,9 @@ const appConfig = useAppConfig()
 
         <ZField label="介绍">
             <p>
-                <ZLink to="https://github.com/xiyou-linuxer">
+                <!--ZLink to="https://github.com/xiyou-linuxer">
                     西邮&thinsp;Linux&thinsp;兴趣小组
-                </ZLink> 成员，Windows 11 和 Arch Linux 用户。
+                </ZLink--> 学生党、设计者、追梦人
             </p>
         </ZField>
 
